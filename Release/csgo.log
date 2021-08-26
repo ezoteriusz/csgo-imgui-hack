@@ -1,0 +1,68 @@
+﻿  Hack.cpp
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(35,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(36,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(37,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(38,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+  directx.cpp
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(35,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(36,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(37,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(38,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+  dllmain.cpp
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(35,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(36,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(37,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(38,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\dllmain.cpp(110,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\dllmain.cpp(109,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\dllmain.cpp(108,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\dllmain.cpp(107,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\dllmain.cpp(106,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  draw.cpp
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(35,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(36,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(37,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(38,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\draw.cpp(14,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\draw.cpp(14,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\draw.cpp(15,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\draw.cpp(15,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\draw.cpp(16,18): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  hook.cpp
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(35,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(36,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(37,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\niesp\Desktop\c++\posejdon\csgo\config.h(38,10): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+dllmain.obj : warning LNK4006: "float * sniperColor" (?sniperColor@@3PAMA) already defined in directx.obj; second definition ignored
+dllmain.obj : warning LNK4006: "float * boxColor" (?boxColor@@3PAMA) already defined in directx.obj; second definition ignored
+dllmain.obj : warning LNK4006: "float * chams" (?chams@@3PAMA) already defined in directx.obj; second definition ignored
+dllmain.obj : warning LNK4006: "float * glowChams" (?glowChams@@3PAMA) already defined in directx.obj; second definition ignored
+dllmain.obj : warning LNK4006: "float customTimeFlash" (?customTimeFlash@@3MA) already defined in directx.obj; second definition ignored
+draw.obj : warning LNK4006: "float * sniperColor" (?sniperColor@@3PAMA) already defined in directx.obj; second definition ignored
+draw.obj : warning LNK4006: "float * boxColor" (?boxColor@@3PAMA) already defined in directx.obj; second definition ignored
+draw.obj : warning LNK4006: "float * chams" (?chams@@3PAMA) already defined in directx.obj; second definition ignored
+draw.obj : warning LNK4006: "float * glowChams" (?glowChams@@3PAMA) already defined in directx.obj; second definition ignored
+draw.obj : warning LNK4006: "float customTimeFlash" (?customTimeFlash@@3MA) already defined in directx.obj; second definition ignored
+Hack.obj : warning LNK4006: "class configuration cfg" (?cfg@@3Vconfiguration@@A) already defined in dllmain.obj; second definition ignored
+Hack.obj : warning LNK4006: "float * sniperColor" (?sniperColor@@3PAMA) already defined in directx.obj; second definition ignored
+Hack.obj : warning LNK4006: "float * boxColor" (?boxColor@@3PAMA) already defined in directx.obj; second definition ignored
+Hack.obj : warning LNK4006: "float * chams" (?chams@@3PAMA) already defined in directx.obj; second definition ignored
+Hack.obj : warning LNK4006: "float * glowChams" (?glowChams@@3PAMA) already defined in directx.obj; second definition ignored
+Hack.obj : warning LNK4006: "float customTimeFlash" (?customTimeFlash@@3MA) already defined in directx.obj; second definition ignored
+hook.obj : warning LNK4006: "float * sniperColor" (?sniperColor@@3PAMA) already defined in directx.obj; second definition ignored
+hook.obj : warning LNK4006: "float * boxColor" (?boxColor@@3PAMA) already defined in directx.obj; second definition ignored
+hook.obj : warning LNK4006: "float * chams" (?chams@@3PAMA) already defined in directx.obj; second definition ignored
+hook.obj : warning LNK4006: "float * glowChams" (?glowChams@@3PAMA) already defined in directx.obj; second definition ignored
+hook.obj : warning LNK4006: "float customTimeFlash" (?customTimeFlash@@3MA) already defined in directx.obj; second definition ignored
+C:\Users\niesp\Desktop\c++\posejdon\csgo\Release\csgo.dll : warning LNK4088: image being generated due to /FORCE option; image may not run
+  Generating code
+  1 of 1175 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+* CIL library *(* CIL module *) : warning LNK4006: "float customTimeFlash" (?customTimeFlash@@3MA) already defined in * CIL library *(* CIL module *); second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "float * glowChams" (?glowChams@@3PAMA) already defined in * CIL library *(* CIL module *); second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "float * chams" (?chams@@3PAMA) already defined in * CIL library *(* CIL module *); second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "class configuration cfg" (?cfg@@3Vconfiguration@@A) already defined in * CIL library *(* CIL module *); second definition ignored
+C:\Users\niesp\Desktop\c++\posejdon\csgo\Release\csgo.dll : warning LNK4088: image being generated due to /FORCE option; image may not run
+  csgo.vcxproj -> C:\Users\niesp\Desktop\c++\posejdon\csgo\Release\csgo.dll
